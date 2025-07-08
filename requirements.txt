@@ -1,7 +1,7 @@
 frida>=16.0.0
 frida-tools>=10.0.0
 prompt-toolkit>=3.0.30,<4.0.0
-click>=8.1.0
+click
 tabulate
 semver>=2
 delegator.py
